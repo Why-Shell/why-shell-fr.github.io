@@ -1,8 +1,8 @@
 title: WhyShell
 tagline: "comprendre le pourquoi derrière chaque exploit"
 description: "Writeups CTF en français — HackTheBox, TryHackMe, Root-Me. Offensif et défensif."
-url: "https://why-shell.github.io"
-baseurl: "/fr"
+url: "https://why-shell-fr.github.io"
+baseurl: 
 github:
   username: Why-Shell
 social:
